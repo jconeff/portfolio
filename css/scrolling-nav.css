@@ -8,7 +8,7 @@ header {
   background-image: linear-gradient(to bottom right, #28bfe8, yellow);
 }
 
-img {
+.bio {
   display: block;
   margin-left: auto;
   margin-right: auto;
