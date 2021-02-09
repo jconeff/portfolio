@@ -4,9 +4,24 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 header {
-  padding: 156px 0 100px;
+  padding: 535px 0 100px;
   background-image: linear-gradient(to bottom right, #28bfe8, yellow);
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+  opacity: 0.8;
+  width:400px;
+  height:380px;
+  border-radius: 500%;
+  object-fit: cover;
+ 
+}
+
+
 
 section {
   padding: 150px 0;
