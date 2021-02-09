@@ -14,13 +14,20 @@ img {
   margin-right: auto;
   padding: 25px;
   opacity: 0.8;
-  width:380px;
-  height:380px;
+  width:200px;
+  height:370px;
   border-radius: 500%;
   object-fit: cover;
  
 }
 
+.email{
+  border-top: solid 
+  1px 
+  darkslategray;
+
+  padding: 20px;
+}
 
 
 section {
