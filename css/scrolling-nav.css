@@ -25,6 +25,11 @@ header {
   font-family: 'Karla', sans-serif;
 }
 
+.lead1{
+  font-family: 'Karla', sans-serif;
+  font-size: 15px;
+}
+
 .card-text{
   font-family: 'Karla', sans-serif;
 }
@@ -99,6 +104,17 @@ h3{
 
 .m-o{
   font-family: 'Karla', sans-serif;
+}
+
+.send{
+  font-family: 'Frank Ruhl Libre', serif;
+  
+  border: 
+  #343a40 .5px solid;
+  background-color: 
+  #343a40;
+  color: white;
+  
 }
 section {
   padding: 150px 0;
