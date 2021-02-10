@@ -12,7 +12,7 @@ My personal portfolio website
 
 
 ## About
-[View Portfolio Here!](https://jconeff.github.io/coneff.portfolio/)
+[View Portfolio Here!](https://jconeff.github.io/portfolio/)
  
  ![home](https://user-images.githubusercontent.com/65797801/107464045-6a891080-6b2d-11eb-9674-ff92d381bd48.png)
  
