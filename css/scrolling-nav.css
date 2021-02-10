@@ -1,11 +1,14 @@
-/*!
- * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template/scrolling-nav)
- * Copyright 2013-2020 Start Bootstrap
- * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
- */
+
 header {
   padding: 535px 0 100px;
   background-image: linear-gradient(to bottom right, #28bfe8, yellow);
+}
+
+
+
+section{
+  background-image: linear-gradient(to bottom right, white, rgb(246, 253, 248));
+
 }
 
 .bio {
@@ -19,6 +22,30 @@ header {
   border-radius: 500%;
   object-fit: cover;
  
+}
+
+.card1{
+  border: black 3px solid;
+  border-radius: 10px;
+  box-shadow: 5px 10px rgba(0, 0, 0, 0.137);
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.card2{
+  border: black 3px solid;
+  border-radius: 10px;
+  box-shadow: 5px 10px rgba(0, 0, 0, 0.137);
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.card3{
+  border: black 3px solid;
+  border-radius: 10px;
+  box-shadow: 5px 10px rgba(0, 0, 0, 0.137);
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 .email{
