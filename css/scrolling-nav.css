@@ -7,7 +7,7 @@ header {
 
 
 section{
-  background-image: linear-gradient(to bottom right, white, rgb(246, 253, 248));
+  background-image: linear-gradient(to bottom right, white, rgb(236, 255, 242));
 
 }
 
@@ -17,15 +17,12 @@ section{
   margin-right: auto;
   padding: 25px;
   opacity: 0.8;
-  width:200px;
-  height:370px;
-  border-radius: 500%;
   object-fit: cover;
  
 }
 
 .card1{
-  border: black 3px solid;
+  border: black 1px solid;
   border-radius: 10px;
   box-shadow: 5px 10px rgba(0, 0, 0, 0.137);
   padding: 20px;
@@ -33,7 +30,7 @@ section{
 }
 
 .card2{
-  border: black 3px solid;
+  border: black 1px solid;
   border-radius: 10px;
   box-shadow: 5px 10px rgba(0, 0, 0, 0.137);
   padding: 20px;
@@ -41,7 +38,7 @@ section{
 }
 
 .card3{
-  border: black 3px solid;
+  border: black 1px solid;
   border-radius: 10px;
   box-shadow: 5px 10px rgba(0, 0, 0, 0.137);
   padding: 20px;
