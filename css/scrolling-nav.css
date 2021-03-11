@@ -2,7 +2,7 @@
 
 
 header {
-  padding: 535px 0 100px;
+  padding: 180px 0 100px;
   background-image: linear-gradient(to bottom right, #2ca7c9, rgb(199, 223, 243));
   
 }
@@ -52,7 +52,7 @@ h3{
 }
 .project{
   background-color:
-  rgba(232, 244, 250, 0.945);
+  rgb(236, 245, 253);
   
 }
 
